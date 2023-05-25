@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm IDREES</h1>
-<h3 align="center">Rise Above the ordinary, embrace the extraordinary</h3>
+<h3 align="center">Rise Above The Ordinary, Embrace The Extraordinary</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 

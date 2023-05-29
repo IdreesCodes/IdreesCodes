@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Bloc,Riverpod,Sockets**
 
-- 👯 I’m looking to collaborate on **Flutter Project**
+- 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/IdreesCodes](github.com/IdreesCodes)
 

@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/true_idr" target="blank"><img src="https://img.shields.io/twitter/follow/true_idr?logo=twitter&style=for-the-badge" alt="true_idr" /></a> </p>
 
-- 🔭 I’m currently working on [ComTech](github.com/IdreesCodes/FYP)
+- 🔭 I’m currently working on [Comtech](github.com/IdreesCodes/FYP)
 
 - 🌱 I’m currently learning **Bloc,Riverpod,Sockets**
 
